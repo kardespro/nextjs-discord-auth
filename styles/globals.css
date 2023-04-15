@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+
+@apply flex flex-col items-center justify-center text-gray-800;
+
+background: #f3f4f6;
+
+}
+
+
+#__layout {
+  @apply h-full w-full;
+}
+.r{
+  border-radius:50%;
+}
