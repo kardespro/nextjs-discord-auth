@@ -3,8 +3,8 @@
 **Start Downloading Project**
 
 ```bash
-git cline https://github.com/kardespro/next.js-discord-auth
-cd next.js-discord-auth
+git cline https://github.com/kardespro/nextjs-discord-auth
+cd nextjs-discord-auth
 ```
 
 **Download Modules**
