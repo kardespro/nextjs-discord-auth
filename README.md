@@ -3,7 +3,7 @@
 **Start Downloading Project**
 
 ```bash
-git cline https://github.com/kardespro/nextjs-discord-auth
+git clone https://github.com/kardespro/nextjs-discord-auth
 cd nextjs-discord-auth
 ```
 
